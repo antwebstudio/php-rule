@@ -1,0 +1,16 @@
+{
+    "name": "antweb/php-rule",
+    "authors": [
+        {
+            "name": "Hui Yang",
+            "email": "chy1988@antwebstudio.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+			"Ant\\Rule\\" : "src",
+			"tests\\" : "tests"
+		}
+    }
+}
